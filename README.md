@@ -1,6 +1,6 @@
 # Jenkins-notes
 
-Link:https://www.jenkins.io/doc/book/installing/linux/
+Link: https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
 Step:1 Update the System EC2 instance
 ------------------------------
